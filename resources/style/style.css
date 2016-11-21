@@ -22,6 +22,14 @@ header {
 	left: 0;
 }
 
+.ghost-icon {
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  right: 0;
+  margin: 1em;
+}
+
 .logo {
 	font-weight: lighter;
     padding: .33em 0;
